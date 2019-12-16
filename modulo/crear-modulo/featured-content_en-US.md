@@ -1,7 +1,6 @@
 ---
-description: >- 
-Also called horizontal carousel. This module can be used, for example, to 
-highlight content that is relevant to the user.
+description: "Also called horizontal carousel. This module can be used, for example, to 
+highlight content that is relevant to the user."
 ---
 
 # Featured Content

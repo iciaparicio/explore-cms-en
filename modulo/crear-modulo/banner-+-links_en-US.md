@@ -1,6 +1,5 @@
 ---
-description: >-
-This is an ideal module for showing your customers a promotion or any content related to a specific campaign that you wish to offer them.
+description: "This is an ideal module for showing your customers a promotion or any content related to a specific campaign that you wish to offer them."
 ---
 
 # Banner + links

@@ -1,7 +1,6 @@
 ---
-description: >- 
-Take a quick look at how to publish a layout. At the end of this article 
-you can access the steps in a much more detailed way.
+description: "Take a quick look at how to publish a layout. At the end of this article 
+you can access the steps in a much more detailed way."
 ---
 
 # Publish a layout

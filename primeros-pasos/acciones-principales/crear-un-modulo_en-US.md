@@ -1,7 +1,6 @@
 ---
-description: >- 
-Take a quick look at how to create a module. At the end of this article 
-you can access the steps in a much more detailed way.
+description: "Take a quick look at how to create a module. At the end of this article 
+you can access the steps in a much more detailed way."
 ---
 
 # Create a module

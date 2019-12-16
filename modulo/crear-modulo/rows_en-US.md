@@ -1,5 +1,5 @@
 ---
-description: Designed to present different rates in a row format.
+description: "Designed to present different rates in a row format."
 ---
 
 # Rows

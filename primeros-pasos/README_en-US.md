@@ -1,5 +1,5 @@
 ---
-description: Access Explore CMS from the Comms Tool
+description: "Access Explore CMS from the Comms Tool"
 ---
 
 # First steps

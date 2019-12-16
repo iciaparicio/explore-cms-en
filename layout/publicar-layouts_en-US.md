@@ -1,6 +1,5 @@
 ---
-description: >-
-This action publishes the changes you have edited in a layout and means that app users can see them.
+description: "This action publishes the changes you have edited in a layout and means that app users can see them."
 ---
 
 # Publish Layouts

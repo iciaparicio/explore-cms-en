@@ -1,8 +1,7 @@
 ---
-description: >-
-Use this option on the main menu to preview how the
+description: "Use this option on the main menu to preview how the
 contents that you are preparing will look before you publish them, or use it to simultaneously view
-the content of different segments.
+the content of different segments."
 ---
 
 # Test lines

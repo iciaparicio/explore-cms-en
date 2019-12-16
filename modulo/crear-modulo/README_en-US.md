@@ -1,5 +1,5 @@
 ---
-description: All detailed steps on how to create a module in Explore CMS.
+description: "All detailed steps on how to create a module in Explore CMS."
 ---
 
 # Create Module

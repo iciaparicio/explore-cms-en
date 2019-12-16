@@ -1,5 +1,5 @@
 ---
-description: >-The Explore configuration tool has two basic configuration blocks: Modules and Layouts.
+description: "The Explore configuration tool has two basic configuration blocks: Modules and Layouts."
 ---
 
 # Explore CMS structure

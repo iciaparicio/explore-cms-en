@@ -1,7 +1,6 @@
 ---
-description: >- 
-You can modify a module that you have previously created. Change the expiration
-date, update an image, modify a text...
+description: "You can modify a module that you have previously created. Change the expiration
+date, update an image, modify a text..."
 ---
 
 # Edit Module

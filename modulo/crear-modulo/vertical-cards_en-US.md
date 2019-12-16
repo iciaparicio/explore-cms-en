@@ -1,6 +1,5 @@
 ---
-description: >-
-It displays elements in vertical format. It is very useful for presenting mobile phone offers, for example.
+description: "It displays elements in vertical format. It is very useful for presenting mobile phone offers, for example."
 ---
 
 # Vertical cards

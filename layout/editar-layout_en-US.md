@@ -1,5 +1,5 @@
 ---
-description: Learn the details of how to edit layouts for users.
+description: "Learn the details of how to edit layouts for users."
 ---
 
 # Edit Layout

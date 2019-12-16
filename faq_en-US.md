@@ -1,6 +1,5 @@
-description: >- 
-Section on FAQs where you can consult the most frequent
-doubts regarding how to use Explore CMS.
+description: "Section on FAQs where you can consult the most frequent
+doubts regarding how to use Explore CMS."
 ---
 
 # FAQs

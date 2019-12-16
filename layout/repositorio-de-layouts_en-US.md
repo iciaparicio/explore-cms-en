@@ -1,5 +1,5 @@
 ---
-description: Consult the list of layouts from the side menu.
+description: "Consult the list of layouts from the side menu."
 ---
 
 # Layouts repository

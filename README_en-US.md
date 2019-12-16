@@ -1,7 +1,6 @@
 ---
-description: >- 
-Here, you will find all the information about this 
-Explore content management tool.
+description: "Here, you will find all the information about this 
+Explore content management tool."
 ---
 
 # Explore CMS User Guide
