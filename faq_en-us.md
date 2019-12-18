@@ -42,9 +42,13 @@ The fact is that you publish the layout rather than the modules. The reason for 
 
 🎯 Don't know how to publish a layout? This will be of interest to you👇
 
+{% page-ref page="readme\_en-us-2/publicar-layouts\_en-us.md" %}
+
 ### I have made changes to a layout but I have not yet published them. Can I preview the changes before making them visible to all users?
 
 Yes, of course you can do it. Click on this link👇
+
+{% page-ref page="test-lines\_pending\_en-us.md" %}
 
 ### I want to create a new layout; how do I do it?
 

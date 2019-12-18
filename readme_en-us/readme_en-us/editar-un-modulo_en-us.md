@@ -18,7 +18,9 @@ Make the necessary changes and click **SAVE** .
 
 ![](https://lh6.googleusercontent.com/3y5MZK7ti6Dl1U_VmyAU-N2PrbPb1v_qzW45L6zgOLV8cvsChwMRAGp0YuwWXfq5YgBbqsP387dvsC3udLtytZDOONdVATI1DWzm1im48AEktpCi119H0pLocaUb0NKjyF_S_Y2Y)
 
-### 🎯 Do you want more information on how to create modules?
+#### 🎯 Do you want more information on how to create modules?
+
+{% page-ref page="../../readme\_en-us-1/editar-modulo\_en-us.md" %}
 
 ![](../../.gitbook/assets/edit_module.gif)
 

@@ -22,7 +22,9 @@ When editing the layout, you can add or delete modules or change the order in wh
 
 When you have finished editing the layout, click **DONE** to save the changes. Bear in mind that, at this time, the changes will still be in _draft_ status. You need to publish them so that app users can see them.
 
-### ​​🎯 Do you want more information on how to create modules?
+#### ​​🎯 Do you want more information on how to create modules?
+
+{% page-ref page="../../readme\_en-us-1/readme\_en-us/" %}
 
 ![How to add a module in a layout](../../.gitbook/assets/edit_layouts.gif)
 

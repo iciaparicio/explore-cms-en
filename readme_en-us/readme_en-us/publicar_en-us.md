@@ -12,7 +12,9 @@ From the layouts repository, click **PUBLISH** and confirm the message shown on 
 
 ![](https://lh5.googleusercontent.com/o9P5bId1r6OrZf9Gx0V-CJuQ7ZRHlJCogACIc1cQXUXIDxUaKyeJBkLzx_ydQJ-TuYUovBnGPQlMfLcHjG-rquOWOF0-jSOekotRcg4o6cjVlCHWFNi_CnkTs4vK7T3KUPzKgzpI)
 
-## 🎯 Do you want more information on how to publish layouts?
+#### 🎯 Do you want more information on how to publish layouts?
+
+{% page-ref page="../../readme\_en-us-2/publicar-layouts\_en-us.md" %}
 
 ![](../../.gitbook/assets/publish_layout.gif)
 

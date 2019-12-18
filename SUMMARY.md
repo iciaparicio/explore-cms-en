@@ -23,5 +23,4 @@
   * [Publish Layouts](readme_en-us-2/publicar-layouts_en-us.md)
 * [Test lines](test-lines_pending_en-us.md)
 * [FAQs](faq_en-us.md)
-* [Table of contents](summary_en-us.md)
 

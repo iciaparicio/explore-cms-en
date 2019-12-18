@@ -22,7 +22,9 @@ Select the type of module.
 
 Fill in the required fields for that module and, if necessary, any of the optional ones. Click **SAVE** to save the changes.
 
-### 🎯 Do you want more information on how to create modules?
+#### 🎯 Do you want more information on how to create modules?
+
+{% page-ref page="../../readme\_en-us-1/readme\_en-us/" %}
 
 ![](../../.gitbook/assets/create_module.gif)
 

@@ -13,7 +13,7 @@ The fields will either be filled in or empty depending on the configuration of t
 To save the changes and generate a new version of the module, click **SAVE**. To discard the changes and leave the current version unaltered, click **CANCEL**.
 
 {% hint style="danger" %}
-Only the layout can be published, not the modules. Therefore, if you want the changes you have made to a module to be seen in the app, you need to [publish the layout](https://github.com/iciaparicio/explore-cms-en/tree/198951b25143b278fbda54020e437607733b235b/layout/publicar-layouts.md) or layouts where this module is available.
+Only the layout can be published, not the modules. Therefore, if you want the changes you have made to a module to be seen in the app, you need to [publish the layout](../readme_en-us-2/publicar-layouts_en-us.md) or layouts where this module is available.
 {% endhint %}
 
 If the module you are editing is being used in a layout, you can see which layout\(s\) it is being used in from the **Details &gt; Layouts section**.

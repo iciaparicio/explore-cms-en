@@ -8,5 +8,11 @@ description: >-
 
 {% page-ref page="crear-un-modulo\_en-us.md" %}
 
+{% page-ref page="editar-un-modulo\_en-us.md" %}
+
+{% page-ref page="editar-un-layout\_en-us.md" %}
+
+{% page-ref page="publicar\_en-us.md" %}
+
 
 

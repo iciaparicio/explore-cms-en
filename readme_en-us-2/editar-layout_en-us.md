@@ -29,7 +29,7 @@ From this section, you can configure the layout, indicating the modules that you
 In the list, click on the ![](https://lh5.googleusercontent.com/VzfjcfEIrPHTLjp_bPrzRkNxpTM4IcMOY2uwN0-ZS4mQqX_ySYoDGL7-FUbKaEPhwY0IQsrvaqGokR0qdpReVgjg-F3U6rLteuZDl3Wc4wpmFbK2sy9Kq7hiaIh5faycHrlgB2ED) arrows to lower and raise the position of the module.
 
 {% hint style="danger" %}
-Remember that a \[_Featured Content_\]-type\(../modulo/crear-modulo/featured-content.md\)-type module must always occupy the first position.
+Remember that a [_Featured Content_](../readme_en-us-1/readme_en-us/featured-content_en-us.md) type module must always occupy the first position.
 {% endhint %}
 
 ### How to add a module from layouts editing
