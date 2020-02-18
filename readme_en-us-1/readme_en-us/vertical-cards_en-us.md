@@ -4,7 +4,7 @@ description: >-
   mobile phone offers, for example.
 ---
 
-# Vertical cards
+# Vertical Cards
 
 This type of module is used to display several elements in vertical format. It is very useful for presenting products offers, for example.
 

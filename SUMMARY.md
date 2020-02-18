@@ -12,7 +12,7 @@
 * [Module](readme_en-us-1/README.md)
   * [Create Module](readme_en-us-1/readme_en-us/README.md)
     * [Featured Content](readme_en-us-1/readme_en-us/featured-content_en-us.md)
-    * [Vertical cards](readme_en-us-1/readme_en-us/vertical-cards_en-us.md)
+    * [Vertical Cards](readme_en-us-1/readme_en-us/vertical-cards_en-us.md)
     * [Rows](readme_en-us-1/readme_en-us/rows_en-us.md)
     * [Banner + links](readme_en-us-1/readme_en-us/banner-+-links_en-us.md)
   * [Edit Module](readme_en-us-1/editar-modulo_en-us.md)
