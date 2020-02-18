@@ -171,13 +171,11 @@ In Explore CMS, select the category or categories that apply to the card that yo
 ![](../../.gitbook/assets/categories.png)
 
 * **Accessories**: earphones, cases, watches.
-* **Bundles**: packs, plans, product packs.
 * **Devices**: smartphones, tablets.
-* **Loyalty**: membership, loyalty/retention programmes content \(Vivo Valoriza, Priority, Club Movistar, etc.\)
-* **Promos**: promotional content that may apply and which may coexist with other categories.
-* **Plans**: rates, plan upgrades.
-* **Services**: added value services, apps, new app features, other TEF services.
-* **TV**: television plans, content packs, featured or new content.
+* **O2 Priority**: membership, loyalty/retention programmes content \(Vivo Valoriza, Priority, Club Movistar, etc.\)
+* **Promotions**: promotional content that may apply and which may coexist with other categories.
+* **Perks**: rates, plan upgrades.
+* **O2 Extra's**: added value services, apps, new app features, other TEF services.
 
 {% hint style="info" %}
 The category **All**, which is the first one that you see, isn't a category as such. Rather, it is the way in which the user can view all the content.
