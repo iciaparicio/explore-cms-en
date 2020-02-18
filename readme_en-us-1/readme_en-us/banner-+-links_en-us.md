@@ -8,7 +8,7 @@ description: >-
 
 _Banner_ modules simply contain an image or a _bumper_ with a link.
 
-💡 \_\_ **Did you know?**
+💡 **Did you know?**
 
 A _bumper_ is a short video or animation. It is a fairly standard format used in marketing, usually used for commercial purposes and with an average duration of around 6 seconds.
 
