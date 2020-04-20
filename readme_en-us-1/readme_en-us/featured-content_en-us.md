@@ -33,7 +33,7 @@ Fill in the required fields and decide if you need to fill in any of the optiona
 🔅 It has a maximum length of **25 characters** and is a **required** field.
 
 {% hint style="warning" %}
-Within a layout, a _Featured Content_-type module must occupy the first position.
+Within a layout, a _Featured Content_ type module must occupy the first position.
 {% endhint %}
 
 ## Cards
@@ -47,7 +47,7 @@ For each _card_, the available fields will vary depending on whether you select 
 * **Image**. It displays a static image.
 * **Bumper**. It displays a short video or animation.
 
-💡 \_\_ **Did you know?**
+💡 **Did you know?**
 
 A _bumper_ is a short video or animation. It is a fairly standard format used in marketing, usually used for commercial purposes and with an average duration of around 6 seconds.
 
@@ -148,12 +148,12 @@ If you have enabled the option to show the expiration date, the way in which tha
 
 🎯 Starting and Ending date and time is a way to program some campaigns and is specifically designed for seasonal campaigns.
 
-**Card 1 Microsegments**. Tags that you can add, always separated by commas, to make a segmentation of the users who are going to see the content you are creating.
+**Card 1 Micro-segments**. Tags that you can add, always separated by commas, to make a segmentation of the users who are going to see the content you are creating.
 
 🔅 It is an **optional** field.
 
 {% hint style="warning" %}
-Remember that you have to configure a minimum of 2 _cards_ and a maximum of 6.
+Remember that you have to configure a minimum of 2 cards and a maximum of 6.
 
 The fields for all the cards are the same.
 {% endhint %}
@@ -188,4 +188,32 @@ By default, when a user opens Explore he/she sees all content and all configured
 **What should I consider when using the categories?**
 
 Consult the [**Categories**](../../faq_en-us.md#categories) section of the [FAQ](../../faq_en-us.md) to resolve all of your doubts.
+
+### Change the order of the _cards_
+
+Inside the module, you can move the cards to change the order in which they are displayed.
+
+![](../../.gitbook/assets/drag-and-drop.png)
+
+To move a _card_, simply drag it to the place where you want it to be displayed and release.
+
+![](../../.gitbook/assets/drag-and-drop_demo.gif)
+
+### Link
+
+You can choose to add links that will be shown at the bottom of the module.
+
+![](../../.gitbook/assets/link_module.png)
+
+In order to do so, fill in the following fields for each link you want to add \(up to a maximum of 5 links\):
+
+**Name**. Name of the link \(for example `Benefits`\).
+
+🔅 It has a maximum length of **38 characters** and is a **required** field.
+
+**Action URL.** Link that opens when you click on the ​ **Name**, i.e., on the name of the link.
+
+🔅 This is a required field and has to be a valid URL \(for example: [`https://www.google.com`](https://www.google.com)\)
+
+![](../../.gitbook/assets/link_featured_content.png)
 

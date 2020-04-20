@@ -143,3 +143,31 @@ By default, when a user opens Explore he/she sees all content and all configured
 
 Consult the [**Categories**](../../faq_en-us.md#categories) section of the [FAQ](../../faq_en-us.md) to resolve all of your doubts.
 
+### Change the order of the _cards_
+
+Inside the module, you can move the cards to change the order in which they are displayed.
+
+![](../../.gitbook/assets/drag-and-drop.png)
+
+To move a _card_, simply drag it to the place where you want it to be displayed and release.
+
+![](../../.gitbook/assets/drag-and-drop_demo.gif)
+
+### Link
+
+You can choose to add links that will be shown at the bottom of the module.
+
+![](../../.gitbook/assets/link_module.png)
+
+In order to do so, fill in the following fields for each link you want to add \(up to a maximum of 5 links\):
+
+**Name**. Name of the link \(for example `Benefits`\).
+
+🔅 It has a maximum length of **38 characters** and is a **required** field.
+
+**Action URL.** Link that opens when you click on the ​ **Name**, i.e., on the name of the link.
+
+🔅 This is a required field and has to be a valid URL \(for example: [`https://www.google.com`](https://www.google.com)\)
+
+![](../../.gitbook/assets/image%20%289%29.png)
+
