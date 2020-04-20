@@ -22,6 +22,6 @@
   * [Layouts repository](readme_en-us-2/repositorio-de-layouts_en-us.md)
   * [Publish Layouts](readme_en-us-2/publicar-layouts_en-us.md)
 * [Test lines](test-lines_pending_en-us.md)
-* [FAQs](faq_en-us.md)
 * [Deep links by category](deep-links-by-category.md)
+* [FAQs](faq_en-us.md)
 
