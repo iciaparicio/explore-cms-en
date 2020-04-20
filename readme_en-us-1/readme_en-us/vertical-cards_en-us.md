@@ -197,5 +197,5 @@ In order to do so, fill in the following fields for each link you want to add \(
 
 🔅 This is a required field and has to be a valid URL \(for example: [`https://www.google.com`](https://www.google.com)\)
 
-![](../../.gitbook/assets/image%20%2854%29.png)
+![](../../.gitbook/assets/vertical_cards_link.png)
 
