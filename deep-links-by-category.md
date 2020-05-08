@@ -10,35 +10,35 @@ This is the list of deep links that will take the user to the Explore content, f
 
 **Accessories**
 
-`https://links.o2.co.uk/explore&refresh=true&categoryID=accesory`
+`https://links.o2.co.uk/explore?refresh=true&categoryID=accesory`
 
 **Bundles**
 
-`https://links.o2.co.uk/explore&refresh=true&categoryID=bundle`
+`https://links.o2.co.uk/explore?refresh=true&categoryID=bundle`
 
 **Devices**
 
-`https://links.o2.co.uk/explore&refresh=true&categoryID=device`
+`https://links.o2.co.uk/explore?refresh=true&categoryID=device`
 
 **Loyalty**
 
-`https://links.o2.co.uk/explore&refresh=true&categoryID=loyalty`
+`https://links.o2.co.uk/explore?refresh=true&categoryID=loyalty`
 
 **Promos**
 
-`https://links.o2.co.uk/explore&refresh=true&categoryID=promotion`
+`https://links.o2.co.uk/explore?refresh=true&categoryID=promotion`
 
 **Plans**
 
-`https://links.o2.co.uk/explore&refresh=true&categoryID=plan`
+`https://links.o2.co.uk/explore?refresh=true&categoryID=plan`
 
 **Services**
 
-`https://links.o2.co.uk/explore&refresh=true&categoryID=value_added_service`
+`https://links.o2.co.uk/explore?refresh=true&categoryID=value_added_service`
 
 **Television**
 
-`https://links.o2.co.uk/explore&refresh=true&categoryID=tv`
+`https://links.o2.co.uk/explore?refresh=true&categoryID=tv`
 
 {% hint style="warning" %}
 Please note that this URL will vary depending on the OB. Make sure you're using the right one 😉
